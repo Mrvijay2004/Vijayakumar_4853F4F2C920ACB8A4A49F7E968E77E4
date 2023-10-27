@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Website</title>
+    <!-- Add links to your CSS and JavaScript files here if needed -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Traffic Website</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Traffic Updates</a></li>
+            <li><a href="#">Reports</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Latest Traffic Updates</h2>
+            <p>Update 1</p>
+            <p>Update 2</p>
+            <!-- Add more updates as needed -->
+        </section>
+
+        <section>
+            <h2>Reports</h2>
+            <p>Report 1</p>
+            <p>Report 2</p>
+            <!-- Add more reports as needed -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Traffic Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
